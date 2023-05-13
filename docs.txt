@@ -1,0 +1,9 @@
+Windows:
+	Tải NodeJS: https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi
+	Mở cmd nhập npm install
+	Dán appstate vào appstate.json
+	Mở cmd nhập npm start
+Replit:
+	Nhập npm install trên shell
+	Thay appstate
+	Bấm nút run
